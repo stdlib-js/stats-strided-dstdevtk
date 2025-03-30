@@ -385,7 +385,7 @@ int main( void ) {
 -   <span class="package-name">[`@stdlib/stats-strided/dnanstdevtk`][@stdlib/stats/strided/dnanstdevtk]</span><span class="delimiter">: </span><span class="description">calculate the standard deviation of a double-precision floating-point strided array ignoring NaN values and using a one-pass textbook algorithm.</span>
 -   <span class="package-name">[`@stdlib/stats-base/dstdev`][@stdlib/stats/base/dstdev]</span><span class="delimiter">: </span><span class="description">calculate the standard deviation of a double-precision floating-point strided array.</span>
 -   <span class="package-name">[`@stdlib/stats-strided/dvariancetk`][@stdlib/stats/strided/dvariancetk]</span><span class="delimiter">: </span><span class="description">calculate the variance of a double-precision floating-point strided array using a one-pass textbook algorithm.</span>
--   <span class="package-name">[`@stdlib/stats-base/sstdevtk`][@stdlib/stats/base/sstdevtk]</span><span class="delimiter">: </span><span class="description">calculate the standard deviation of a single-precision floating-point strided array using a one-pass textbook algorithm.</span>
+-   <span class="package-name">[`@stdlib/stats-strided/sstdevtk`][@stdlib/stats/strided/sstdevtk]</span><span class="delimiter">: </span><span class="description">calculate the standard deviation of a single-precision floating-point strided array using a one-pass textbook algorithm.</span>
 -   <span class="package-name">[`@stdlib/stats-base/stdevtk`][@stdlib/stats/base/stdevtk]</span><span class="delimiter">: </span><span class="description">calculate the standard deviation of a strided array using a one-pass textbook algorithm.</span>
 
 </section>
@@ -480,7 +480,7 @@ Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 
 [@stdlib/stats/strided/dvariancetk]: https://github.com/stdlib-js/stats-strided-dvariancetk
 
-[@stdlib/stats/base/sstdevtk]: https://github.com/stdlib-js/stats-base-sstdevtk
+[@stdlib/stats/strided/sstdevtk]: https://github.com/stdlib-js/stats-strided-sstdevtk
 
 [@stdlib/stats/base/stdevtk]: https://github.com/stdlib-js/stats-base-stdevtk
 
